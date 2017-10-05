@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Keyboard)(type KiCad)(uri /home/rpedde/working/electronics/hardware/kicad/libs/personal/Keyboard.pretty)(options "")(descr ""))
+  (lib (name logos)(type KiCad)(uri /home/rpedde/working/electronics/hardware/kicad/logos)(options "")(descr ""))
+)
