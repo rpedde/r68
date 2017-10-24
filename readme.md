@@ -12,4 +12,5 @@ This supports two layouts:
 
 ## Hardware Revisions/Errata ##
 
-1.0: Not yet complete
+1.0: Initial version (Ordered, not yet verified) [gerbers](https://storage.googleapis.com/rpedde-public-gerbers/r68-r1.0.zip)
+
