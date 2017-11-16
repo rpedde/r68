@@ -12,5 +12,5 @@ This supports two layouts:
 
 ## Hardware Revisions/Errata ##
 
-1.0: Initial version (Ordered, not yet verified) [gerbers](https://storage.googleapis.com/rpedde-public-gerbers/r68-r1.0.zip)
-
+* 1.0: Initial version (bad right arrow, not recommended) [gerbers](https://storage.googleapis.com/rpedde-public-gerbers/r68-r1.0.zip)
+* 1.1: Fix right arrow, change (ordered, not verified) [gerbers](https://storage.googleapis.com/rpedde-public-gerbers/r68-r1.1.zip)
