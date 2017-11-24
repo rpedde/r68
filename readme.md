@@ -14,3 +14,4 @@ This supports two layouts:
 
 * 1.0: Initial version (bad right arrow, not recommended) [gerbers](https://storage.googleapis.com/rpedde-public-gerbers/r68-r1.0.zip)
 * 1.1: Fix right arrow, change (ordered, not verified) [gerbers](https://storage.googleapis.com/rpedde-public-gerbers/r68-r1.1.zip)
+* 1.2: Fix ground on C14 (forgot to repour groundplane) [gerbers](https://storage.googleapis.com/rpedde-public-gerbers/r68-r1.2.zip)
