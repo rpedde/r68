@@ -35,9 +35,9 @@ EELAYER END
 $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
-Title "68% Keyboard PCB"
+Title "65% Keyboard PCB"
 Date "2017-06-04"
-Rev "1.1"
+Rev "1.2"
 Comp ""
 Comment1 ""
 Comment2 ""
