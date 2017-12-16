@@ -13,5 +13,5 @@ This supports two layouts:
 ## Hardware Revisions/Errata ##
 
 * 1.0: Initial version (bad right arrow, not recommended) [gerbers](https://storage.googleapis.com/rpedde-public-gerbers/r68-r1.0.zip)
-* 1.1: Fix right arrow, change (ordered, not verified) [gerbers](https://storage.googleapis.com/rpedde-public-gerbers/r68-r1.1.zip)
-* 1.2: Fix ground on C14 (forgot to repour groundplane) [gerbers](https://storage.googleapis.com/rpedde-public-gerbers/r68-r1.2.zip)
+* 1.1: Fix right arrow, change (ground short on C14) [gerbers](https://storage.googleapis.com/rpedde-public-gerbers/r68-r1.1.zip)
+* 1.2: Repour ground (ordered from easyeda, verified working) [gerbers](https://storage.googleapis.com/rpedde-public-gerbers/r68-r1.2.zip)
